@@ -1,6 +1,6 @@
 # New-Outlook-Rounded-Theme
 
-🖥️Currently publisehd! 🟥 with real users 👨‍💻 worldwide 🌐 !!! on Chrome Web Store 👉 https://chromewebstore.google.com/detail/outlook-rounded-theme/loaeeneebcgkkedfnoaglcdbbikcbfod?hl=es
+🖥️Currently publisehd! 🟥 with 🌟 real users 👨‍💻 worldwide 🌐 !!! on Chrome Web Store 👉 https://chromewebstore.google.com/detail/outlook-rounded-theme/loaeeneebcgkkedfnoaglcdbbikcbfod?hl=es
 
 No other extension for Outlook theme!!!! (or at least at the moment of writing this Readme soo)
 

@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Outlook Rounded Theme",
+  "version": "2.0",
+  "description": "Applies a Rounded Outlook Theme.!!!",
+  "content_scripts": [
+    {
+      "matches": ["https://outlook.office.com/mail/*"],
+      "css": ["styles.css"]
+    }
+  ]
+}

@@ -31,4 +31,9 @@ And happy to share and see it's really original cause no one else have done it p
 
 I think that's what fills me with joy the most!
 
+This is how it looks like!!
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8fbf4773-471d-43e6-af78-e561a044e5d6" />
+
+
 

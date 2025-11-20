@@ -2,9 +2,9 @@
 
 🖥️Currently publisehd! 🟥 with 🌟 real users 👨‍💻 worldwide 🌐 !!! on Chrome Web Store 👉 https://chromewebstore.google.com/detail/outlook-rounded-theme/loaeeneebcgkkedfnoaglcdbbikcbfod?hl=es
 
-No other extension for Outlook theme!!!! (or at least at the moment of writing this Readme soo)
+No other extension for Outlook Rounded theme!!!! (or at least at the moment of writing this Readme soo)
 
-👑🥇First Extension worlwide 🌎 for Outlook Theme 🔵!!!
+👑🥇First Extension worlwide 🌎 for Outlook Rounded Theme 🔵!!!
 Available on Edge Add ons
 <img width="2878" height="1821" alt="image" src="https://github.com/user-attachments/assets/7e21df8d-6a81-4681-b936-a42855cf209f" />
 

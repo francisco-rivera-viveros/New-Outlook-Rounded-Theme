@@ -5,9 +5,12 @@
 No other extension for Outlook theme!!!! (or at least at the moment of writing this Readme soo)
 
 👑🥇First Extension worlwide 🌎 for Outlook Theme 🔵!!!
+Available on Edge Add ons
+<img width="2878" height="1821" alt="image" src="https://github.com/user-attachments/assets/7e21df8d-6a81-4681-b936-a42855cf209f" />
 
+Availalbe on Chrome Web Store
+<img width="2879" height="1818" alt="image" src="https://github.com/user-attachments/assets/1ca6f1e9-84e1-48b6-add3-66f3aae5ef4a" />
 
-<img width="3839" height="2041" alt="image" src="https://github.com/user-attachments/assets/8a33d234-f46c-4069-91b1-1fbaf4098660" />
 
 
 I was boring at my call center job and I though I can use inspect tool from edge to actually change here an there  a lil bit of the Outlook UI then I started this project in a couple days I became passionate about creating my very own version of the Outlook UI mainly rounded corners ans some colors! soo I just became absolutely obsessed with idea and I fell in love with it !! 
